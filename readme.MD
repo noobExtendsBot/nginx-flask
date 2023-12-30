@@ -5,7 +5,7 @@
 
   
 
-The project uses nginx as load balancer over a simple Flask application.
+The project uses nginx as load balancer over a simple Flask application. It displays a random quote with the container ID which ensures that requests are being served from different containers.
 
   
 
